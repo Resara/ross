@@ -1,0 +1,11 @@
+Package: ross
+Title: Ross Thorne's R Code
+Version: 0.0.0.9000
+Authors@R: person("Ross", "Thorne", email = "ross.thorne@imm.ox.ac.uk", role = c("aut", "cre"))
+Description: Miscellaneous R functions.
+Depends: R (>= 3.1.2)
+Imports:
+  GenomicRanges,
+  genomation
+License: GPL3
+LazyData: true
